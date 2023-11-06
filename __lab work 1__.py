@@ -1,8 +1,10 @@
 # the program for solving the quadratic equation
 from math import sqrt
-print("enter the a, b, c:")
+print("enter the a:")
 a = float(input())
+print("enter the b:")
 b = float(input())
+print("enter the c:")
 c = float(input())
 D = b*b - 4*a*a
 x1 = (-b+sqrt(D))/2*a
