@@ -1,4 +1,3 @@
-# the program for solving the quadratic equation
 from math import sqrt
 
 # using libraries
