@@ -11,12 +11,12 @@ c = float(input())
 
 # enter the variables
 
-D = b*b - 4*a*a
-x1 = (-b+sqrt(D))/2*a
+D = b * b - 4 * a * a
+x1 = (- b + sqrt(D)) / 2 * a
 
 # calculation x1
 
-x2 = (-b-sqrt(D))/2*a
+x2 = (- b - sqrt(D)) / 2 * a
 
 # calculation x2
 
